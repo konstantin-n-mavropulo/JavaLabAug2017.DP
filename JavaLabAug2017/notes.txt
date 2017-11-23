@@ -1,0 +1,21 @@
+SOLID
+YAGNI   You Ain't Gonna Need It
+KISS    Keep It Simple, Stupid
+DRY     Don't Repeat Yourself
+
+
+CRUD  Create Retrieve Update Delete
+
+
+Специализация
+Спецификация
+Ограничение
+Варьирование
+Конструирование
+
+Зацепление Coupling
+Связность Cohesion
+
+
+RPC  Remote Procedure Call
+RMI  Remote Method Invocation
